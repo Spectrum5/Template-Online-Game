@@ -13,6 +13,6 @@ export default {
 
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 /* aggiunta stile css */
 </style>
